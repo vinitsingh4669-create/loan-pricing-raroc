@@ -76,3 +76,7 @@ Most credit risk projects stop at building a model. This project goes further:
 2. Place it in the same folder as the notebook
 3. Run `Jupyter Notebook` → open `loan_pricing_raroc.ipynb`
 4. Kernel → Restart & Run All
+
+---
+
+*Built by Vinit Singh | [LinkedIn](www.linkedin.com/in/vinit-singh-7b616a175)*
