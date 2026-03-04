@@ -79,4 +79,4 @@ Most credit risk projects stop at building a model. This project goes further:
 
 ---
 
-*Built by Vinit Singh | [LinkedIn](www.linkedin.com/in/vinit-singh-7b616a175)*
+*Built by Vinit Singh | [LinkedIn](https://www.linkedin.com/in/vinit-singh-7b616a175)*
